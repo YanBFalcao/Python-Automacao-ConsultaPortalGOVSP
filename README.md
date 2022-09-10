@@ -1,4 +1,4 @@
-# Python - Automação Consulta Portal GOV SP
+# Python - Automação Consulta Portal GOV SP (Em andamento)
 
 Repositório de Automação Python - Consulta Portal GOV SP
 
